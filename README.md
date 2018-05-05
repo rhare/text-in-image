@@ -23,3 +23,9 @@ CPSC-353 Project - Text in image (Steganography)
 ```bash
 ./text_in_image.py encode-file -i img_to_decode.png
 ```
+
+### Help menu
+
+```bash
+./text_in_image.py --help
+```
